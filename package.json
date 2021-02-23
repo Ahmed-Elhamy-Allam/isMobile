@@ -1,0 +1,24 @@
+{
+  "name": "@its-mix/ismobile",
+  "version": "1.0.0",
+  "description": "a helper to check if the user client is mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cenlins/isMobile.git"
+  },
+  "keywords": [
+    "mobile",
+    "responsive",
+    "helper"
+  ],
+  "author": "Ahmed Elhamy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cenlins/isMobile/issues"
+  },
+  "homepage": "https://github.com/Cenlins/isMobile#readme"
+}
